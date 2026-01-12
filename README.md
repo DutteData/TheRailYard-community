@@ -27,3 +27,15 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## ❤️ Support
 If you enjoy The Rail Yard, consider supporting development via GitHub Sponsors.
+
+---
+
+## ❤️ Support The Rail Yard
+
+The Rail Yard is built by a model train enthusiast, for model train enthusiasts.
+
+This project exists to give the model railway community a focused, modern digital home — free from ads, noise, and generic platforms.
+
+If you’d like to support development, infrastructure, and long-term sustainability, sponsorship will be available via GitHub Sponsors shortly.
+
+Until then, your ideas, feedback, and engagement already mean a lot.
